@@ -88,7 +88,3 @@ Here are some visualizations from my experiments:
 - Add attention mechanisms to the LSTM for better context understanding.
 - Experiment with larger epochs to stabilize training time patterns.
 - Try other datasets or preprocessing techniques (e.g., subword tokenization).
-
-## Acknowledgments
-- Inspired by my interest in NLP and PyTorch.
-- Built from scratch as a self-driven learning project.
